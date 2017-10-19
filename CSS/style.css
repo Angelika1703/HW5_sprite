@@ -1,0 +1,31 @@
+
+div {
+	width: 375px;
+	height: 375px;
+	background-image: url("../img/sprite.png");
+}
+
+.skype {
+	background-position: 0 0;
+}
+.insta {
+	background-position: -375px 0;
+}
+.vk {
+	background-position: 750px 0;
+}
+.whatsapp {
+    background-position: 375px 0;
+}
+.skypeC {
+	background-position: 0 375px;
+}
+.instaC {
+	background-position: -375px -375px;
+}
+.vkC {
+	background-position: 750px 375px;
+}
+.whatsappC {
+	background-position: 375px 375px;
+}
